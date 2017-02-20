@@ -12,7 +12,6 @@ $(document).ready(function(){
 
 });
 
-
   /* toggle and delete
   $('.course').on('click', function(){
     $(this).find('.detail').slideToggle();
